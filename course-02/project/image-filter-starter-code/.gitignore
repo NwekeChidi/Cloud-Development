@@ -4,7 +4,7 @@
 *~
 *.sw[mnpcod]
 *.log
-# *.tmp
+*.tmp
 *.tmp.*
 log.txt
 *.sublime-project
@@ -16,12 +16,12 @@ npm-debug.log*
 .ionic/
 .sourcemaps/
 .sass-cache/
-# .tmp/
+.tmp/
 .versions/
 coverage/
 www/
 node_modules/
-# tmp/
+tmp/
 temp/
 platforms/
 plugins/
